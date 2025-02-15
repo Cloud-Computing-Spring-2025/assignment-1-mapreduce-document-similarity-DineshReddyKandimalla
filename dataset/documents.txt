@@ -1,0 +1,5 @@
+Doc1 this an example for the assignment
+
+Doc2 another file for the assignment
+
+Doc3 third file for the assignment
